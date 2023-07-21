@@ -3,6 +3,16 @@
 Implement the basic API functionality and have an introduction understanding of:
 
 - 1. Using the donet CLI
+    - dotnet --info
+    - dotnet -h
+    - dotnet -h new
+    - dotnet new list
+    - dotnet new sln
+    - dotnet new webapi -n API
+    - dotnet sln -h
+    - dotnet sln add API
+    - dotnet sln list
+    - https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch/learn/lecture/22400306#overview:~:text=7.-,Setting,-up%20VS%20code
 - 2. API Controller and Endpoints
 - 3. Entity FRamework
 - 4. The API Project Structure
