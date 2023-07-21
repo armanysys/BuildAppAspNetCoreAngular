@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/a.antonio.del.angel/Documents/GitHub/curse_net_core/DatingApp/API/API.csproj": {}
+    "/Users/a.antonio.del.angel/Documents/GitHub/BuildAppAspNetCoreAngular/DatingApp/API/API.csproj": {}
   },
   "projects": {
-    "/Users/a.antonio.del.angel/Documents/GitHub/curse_net_core/DatingApp/API/API.csproj": {
+    "/Users/a.antonio.del.angel/Documents/GitHub/BuildAppAspNetCoreAngular/DatingApp/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/a.antonio.del.angel/Documents/GitHub/curse_net_core/DatingApp/API/API.csproj",
+        "projectUniqueName": "/Users/a.antonio.del.angel/Documents/GitHub/BuildAppAspNetCoreAngular/DatingApp/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/a.antonio.del.angel/Documents/GitHub/curse_net_core/DatingApp/API/API.csproj",
+        "projectPath": "/Users/a.antonio.del.angel/Documents/GitHub/BuildAppAspNetCoreAngular/DatingApp/API/API.csproj",
         "packagesPath": "/Users/a.antonio.del.angel/.nuget/packages/",
-        "outputPath": "/Users/a.antonio.del.angel/Documents/GitHub/curse_net_core/DatingApp/API/obj/",
+        "outputPath": "/Users/a.antonio.del.angel/Documents/GitHub/BuildAppAspNetCoreAngular/DatingApp/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/a.antonio.del.angel/.nuget/NuGet/NuGet.Config"
@@ -38,16 +38,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.8, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
