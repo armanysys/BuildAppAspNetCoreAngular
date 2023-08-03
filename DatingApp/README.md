@@ -21,6 +21,9 @@ Implement the basic API functionality and have an introduction understanding of:
     - https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch/learn/lecture/22400316#overview:~:text=9.%20Creating%20our-,first,-Entity
 - 2. API Controller and Endpoints
 - 3. Entity FRamework
+    - Install Nuget package
+    - Install Microsoft.EntityFrameworkCore.Design
+    - Install Microsoft.EntityFrameworkCore.Sqlite
 - 4. The API Project Structure
 - 5. Configuration and Environment variables
 - 6. Source control
